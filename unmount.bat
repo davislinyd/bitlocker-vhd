@@ -1,0 +1,1 @@
+Powershell.exe -ExecutionPolicy RemoteSigned -File  D:\unmount.ps1
